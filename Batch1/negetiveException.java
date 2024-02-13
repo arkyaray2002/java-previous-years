@@ -22,7 +22,7 @@ public class negetiveException
 
      // throw an object of user defined exception  
      throw new negativeNumberException("negativeNumberException Occured");    
- }  
+    }  
     else {   
      System.out.println("Number is not negative");   
      }   
