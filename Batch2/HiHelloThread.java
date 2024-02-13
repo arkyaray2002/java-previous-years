@@ -1,4 +1,4 @@
-package Batch1;
+package Batch2;
 
 class HelloThread extends Thread {
     public void run() {
